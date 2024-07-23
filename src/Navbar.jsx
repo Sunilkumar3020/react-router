@@ -5,7 +5,7 @@ const Navbar = () => {
 
         <nav>
             <ul>
-                <li><Link to="react-router/">Home</Link></li>
+                <li><Link to="/">Home</Link></li>
                 <li><Link to="/about">About Us</Link></li>
                 <li><Link to="/project">Project</Link></li>
                 <li><Link to="/contact">Contact Us</Link></li>
