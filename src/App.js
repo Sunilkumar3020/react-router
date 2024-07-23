@@ -16,7 +16,7 @@ function App() {
         <Route path='/contact' element={<Contact />} />
       </Routes>
 
-      <h2>App Component Render</h2>
+      <h2>App Component Render one</h2>
     </div>
   )
 }
