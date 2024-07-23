@@ -15,6 +15,8 @@ function App() {
         <Route path='/project' element={<Project />} />
         <Route path='/contact' element={<Contact />} />
       </Routes>
+
+      <h2>App Component Render</h2>
     </div>
   )
 }
