@@ -1,5 +1,6 @@
 {
-  "name": "react-router","homepage": "https://sunilkumar3020.github.io/react-router",
+  "name": "react-router",
+  "homepage": "https://sunilkumar3020.github.io/react-router",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,6 +41,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "tailwindcss": "^3.4.6"
   }
 }
