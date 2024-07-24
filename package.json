@@ -1,6 +1,5 @@
 {
   "name": "react-router",
-  "homepage": "https://sunilkumar3020.github.io/react-router",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,10 +10,11 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.25.1",
     "react-scripts": "5.0.1",
+    "swiper": "^11.1.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
